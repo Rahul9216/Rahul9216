@@ -34,7 +34,7 @@ apt update && apt install git -y && git clone https://github.com/htr-tech/termux
     https://github.com/Udoy2/ 🤩
     https://github.com/TechnicalMujeeb/ 🤩
     
-## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
+
+
+
+#### Github : rahul9216
